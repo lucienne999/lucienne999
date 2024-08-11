@@ -1,19 +1,16 @@
-### Hi there 👋
+[![Lucienne's stats](https://github-readme-stats.vercel.app/api?username=lucienne999&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lichar's GitHub stats](https://github-readme-stats.vercel.app/api?username=licharyuan&count_private=true&show_icons=true&theme=dark)
-](https://github.com/LicharYuan)
+<h1>Hi, My name is Game Glide </h1>
+<br />
+<p>I am a Game developer, java developer and a full stack web developer! Oh and also Youtuber :) <br/>
+I use the following languages to write code:
+</p>
 
-<!--
-**LicharYuan/LicharYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YT-GameWorks&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Youtube: </h2>
+<p>I DON'T regularly upload, because I am very busy but when I do,<br/>I upload tutoriaks (big shock)
+Checking it out would help me a lot (Channel name: Game Glide)
+  
+  Thanks!
+</p>
